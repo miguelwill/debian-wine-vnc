@@ -1,4 +1,5 @@
-FROM strm/vnc
+#image updated with debian and vnc
+FROM docker-vnc:latest
 
 LABEL maintainer "opsxcq@strm.sh"
 
