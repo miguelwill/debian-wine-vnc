@@ -1,7 +1,7 @@
 #image updated with debian and vnc
-FROM docker-vnc:latest
+FROM miguelwill/debian-vnc:latest
 
-LABEL maintainer "opsxcq@strm.sh"
+LABEL maintainer "miguelwill@gmail.com"
 
 # Use the latest version of winetricks
 RUN curl -SL 'https://raw.githubusercontent.com/Winetricks/winetricks/master/src/winetricks' -o /usr/local/bin/winetricks \
