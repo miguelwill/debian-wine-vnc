@@ -1,6 +1,6 @@
 # Wine in a Container 
 
-[![Docker Pulls](https://img.shields.io/docker/pulls/strm/wine.svg?style=plastic)](https://hub.docker.com/r/strm/wine/)
+[![Docker Pulls](https://img.shields.io/docker/pulls/miguelwill/debian-vnc-wine.svg?style=plastic)](https://hub.docker.com/r/miguelwill/debian-vnc-wine/)
 
 ![logo](logo.png)
 
