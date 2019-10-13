@@ -1,5 +1,5 @@
 #image updated with debian and vnc
-FROM miguelwill/debian-vnc:latest
+FROM miguelwill/debian-vnc:firefox
 
 LABEL maintainer "miguelwill@gmail.com"
 
